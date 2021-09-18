@@ -35,7 +35,7 @@ html {
 	transition: transform 2s;
 }
 .avatar__picture:hover {
-    transform: rotateZ(180deg);
+	transform: translateX(100%) rotate(360deg);
     transition: transform 2s ease;
 }
 .contacts {
