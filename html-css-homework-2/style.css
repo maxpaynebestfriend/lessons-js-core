@@ -35,8 +35,9 @@ html {
 	transition: transform 2s;
 }
 .avatar__picture:hover {
+
 	transform: translateX(100%) rotate(360deg);
-    transition: transform 2s ease;
+  transition: transform 2s ease;
 }
 .contacts {
 	/* добавьте ваш код  */
